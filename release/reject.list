@@ -1,5 +1,5 @@
 # reject — auto-generated, do not edit
-# entries: 1196
+# entries: 1199
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 +.1oavsblobprodcus350.blob.core.windows.net
@@ -15,6 +15,7 @@
 +.a.adtng.com
 +.a.alimama.cn
 +.a.market.xiaomi.com
++.a.mts.ru
 +.a.youdao.com
 +.aaid.umeng.com
 +.aaxads.com
@@ -878,6 +879,7 @@ new-adv.ozon.ru
 +.nw-umwatson.events.data.microsoft.com
 o33249.ingest.sentry.io
 o4504926511693824.ingest.sentry.io
++.obs.mts.ru
 +.oc.umeng.com
 +.oca.telemetry.microsoft.us
 +.oct.pocoiq.cn
@@ -1010,6 +1012,7 @@ sentry-ng.g.smailru.net
 sentry.dev-my.com
 sentry.dev-my.games
 sentry.hetzner.company
+sentry.iptv.rt.ru
 sentry.kontur.host
 sentry.mindbox.ru
 +.sentry.music.163.com

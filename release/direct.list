@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 3512
+# entries: 3553
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -152,6 +152,7 @@
 +.99.100.in-addr.arpa
 +.a-msedge.net
 +.a.e.f.ip6.arpa
++.a.mts.ru
 +.a0pple.net
 a1.mzstatic.com
 a2.mzstatic.com
@@ -259,6 +260,7 @@ analytics.vk.ru
 analytics.wildberries.ru
 +.ankarazirvesi2018.com
 +.annstores.net
++.antiphishing.nl
 aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 +.aodahl.com
@@ -1132,6 +1134,7 @@ build.microsoft.com
 +.c-msedge.net
 +.cabconnect.org
 +.calendarserver.org
++.callbackkiller.com
 +.callersbane.com
 +.camelphat.com
 +.camelspaceeffect.com
@@ -1158,6 +1161,7 @@ build.microsoft.com
 +.casquemonsterbeatsbydre2013.com
 +.casquesbeatsaudio.com
 +.catalina.hk
++.cbkiller.com
 +.cdek.shopping
 +.cdn-apple.com
 cdn-cn.apple-mapkit.com
@@ -1179,6 +1183,7 @@ cds.apple.com.akadns.net
 cdsassets.apple.com
 +.cegid-cloud.cn
 +.centralvalidation.com
++.cert-gib.com
 certs-lb.apple.com.akadns.net
 certs.apple.com
 +.ch9.ms
@@ -1333,6 +1338,7 @@ ctldl.windowsupdate.com
 +.customizedbeatsbydre.com
 +.customizedbeatsdre.com
 +.cxhub.ru
++.cybercrimecon.com
 +.cybermondaybeats4sale.com
 +.d.f.ip6.arpa
 d1g1f25tn8m2e6.cloudfront.net
@@ -1535,7 +1541,12 @@ education.tbank.ru
 +.emias.info
 emoi-cncdn.bing.com
 +.engkoo.com
++.envybox.company
++.envybox.family
 +.envybox.io
++.envybox.kg
++.envycdp.com
++.envycrm.com
 +.epicevents.gg
 error-tracking.megamarket.tech
 +.esbeatsbydrebuy.com
@@ -1550,6 +1561,9 @@ error-tracking.megamarket.tech
 experiments.apple.com
 +.ext-twitch.tv
 f.c2r.ts.cdn.office.net
++.f6.dev
++.f6.security
++.facct.email
 +.faceid99.com
 +.faceid99.net
 +.faceidglobal.com
@@ -1588,6 +1602,9 @@ flightsimulator.azureedge.net
 +.frishoes.com
 fs.microsoft.com
 +.fundaiphone5s.com
++.g-ib.ae
++.g-ib.sg
++.g-ib.us
 +.g.mindbox.ru
 +.gamebeforethegame.com
 +.gamepass.com
@@ -1600,6 +1617,8 @@ fs.microsoft.com
 +.gearstactics.com
 +.genetic-technologies.am
 +.genotek.am
++.genotek.es
++.genotek.eu
 +.genotek.health
 +.geoport.com
 +.getdrebeatssale.com
@@ -1607,8 +1626,13 @@ fs.microsoft.com
 +.gfx.ms
 +.gh.io
 +.ghcr.io
++.gib-global.com
++.gib.sg
++.gibdev.net
 +.giga.chat
 +.gigjam.com
++.gismeteo.by
++.gismeteo.com
 +.gismeteo.net
 +.gismeteo.st
 +.git.io
@@ -1640,7 +1664,16 @@ google-analytics-suite.ozon.ru
 +.gotcosmos.com
 +.goup.ai
 +.graphengine.io
++.group-ib.ae
++.group-ib.co.uk
 +.group-ib.com
++.group-ib.de
++.group-ib.eu
++.group-ib.sg
++.group-ib.us
++.groupib.ae
++.groupib.sg
++.groupib.us
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gsp10-ssl-cn.ls.apple.com
@@ -2264,6 +2297,8 @@ mdr.ksn.kaspersky-labs.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
++.meteofor.com
++.meteofor.st
 +.meteum.ai
 metrics.21-school.ru
 +.metrics.viqeo.tv
@@ -2482,6 +2517,7 @@ ml.cdn-apple.com
 +.monstersbeatbydres.com
 +.monstersdebea.com
 +.monstershopcheapbeats.net
++.more.tv
 +.moreheadphones.com
 +.morphcharts.com
 mos.transport.vtb.ru
@@ -2544,6 +2580,7 @@ mscrl.microsoft.com
 +.msturing.org
 +.msudalosti.com
 +.msunlimitedcloudsummit.com
++.mts-ws.net
 music.apple.com
 +.musickit.net
 musicstatus.music.apple.com
@@ -2611,6 +2648,7 @@ np-edge.itunes.apple.com
 +.o365weve-ppe.com
 +.o365weve.com
 oasisauth.h3c.com
++.obs.mts.ru
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.microsoft.com
@@ -2965,6 +3003,7 @@ seed.siri.apple.com
 sentry-ng.g.smailru.net
 sentry.dev-my.com
 sentry.dev-my.games
+sentry.iptv.rt.ru
 sentry.kontur.host
 sentry.mindbox.ru
 sentry.ozon.ru
@@ -3193,6 +3232,7 @@ transport.mos.ru
 +.turbopages.org
 tv.applemusic.com
 +.tvappstore.net
++.tvoyodbo.online
 +.twitch.tv
 +.twitchcdn.net
 +.twitchcon.com
@@ -3348,6 +3388,7 @@ whiteline.mail.ru
 +.windowsupdate.com
 +.winhec.com
 +.winhec.net
++.wink.am
 +.worldcoinpay.com
 +.wpewebkit.org
 wscont1.apps.microsoft.com

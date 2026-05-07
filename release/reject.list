@@ -1,5 +1,5 @@
 # reject — auto-generated, do not edit
-# entries: 1199
+# entries: 1200
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 +.1oavsblobprodcus350.blob.core.windows.net
@@ -504,7 +504,8 @@ click.rustore.ru
 +.compatexchange1.trafficmanager.net
 +.contentabc.com
 +.contextual.media.net
-+.copilot-telemetry.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 +.corp.sts.microsoft.com
 +.corpext.msitadfs.glbdns2.microsoft.com
 +.counter.yandex.ru

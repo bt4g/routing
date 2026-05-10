@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 3583
+# entries: 3597
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -184,6 +184,7 @@ adcdownload.apple.com.akadns.net
 +.adfox.yandex.ru
 adfstat.yandex.ru
 +.admetrica.ru
++.adriver.ru
 ads-gate.wildberries.ru
 ads-integration.rustore.ru
 ads-media.wildberries.ru
@@ -2057,8 +2058,8 @@ is5.mzstatic.com
 +.itunbes.com
 +.ituneas.com
 +.itunes-apple.cn
-+.itunes-apple.com.akadns.net
 itunes-apple.com.akadns.net
++.itunes-apple.com.akadns.net
 +.itunes-radio.net
 itunes.apple.com
 +.itunes.ca
@@ -2111,6 +2112,7 @@ itunesconnect.apple.com
 js-cdn.music.apple.com
 +.jtvnw.net
 +.jump.taxi
++.justveryok.com
 +.jwt.ms
 +.kaspersky-labs.com
 +.kaspersky.be
@@ -2147,6 +2149,7 @@ js-cdn.music.apple.com
 +.kaspersky.ro
 +.kaspersky.rs
 +.kaspersky.se
++.keyboardmen.com
 +.kickshatchannel.com
 +.kidgrid.tv
 +.kinescopecdn.net
@@ -2665,6 +2668,14 @@ ocsp.microsoft.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 +.octocaptcha.com
++.odnoklasniki.by
++.odnoklasniki.ua
++.odnoklassniki.am
++.odnoklassniki.by
++.odnoklassniki.co.ee
++.odnoklassniki.eu
++.odnoklassniki.lv
++.odnoklassniki.tj
 oemsoc.download.prss.microsoft.com
 +.offerairjordanlebron.com
 +.office
@@ -2908,6 +2919,7 @@ push-apple.com.akadns.net
 +.pushgrow.io
 +.pwabuilder.com
 +.pxt.io
++.pz.help
 +.quatrowireless.com
 questions-adv.ozon.ru
 +.quicktime.cc
@@ -2922,6 +2934,7 @@ questions-adv.ozon.ru
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
++.rabbitcounter.com
 +.rabota.by
 +.radar.imgsmail.ru
 +.rbsgr.com
@@ -3007,6 +3020,7 @@ s5.mzstatic.com
 +.samebags.com
 +.sankie.net
 +.sanvaras.com
++.sayeasy.eu
 +.sber-bank.by
 +.sber.pro
 +.sberauto.com

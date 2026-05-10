@@ -1,5 +1,5 @@
 # reject — auto-generated, do not edit
-# entries: 1200
+# entries: 1204
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 +.1oavsblobprodcus350.blob.core.windows.net
@@ -796,6 +796,7 @@ log3-applog-hl.fqnovel.com
 log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
 log5-applog.fqnovel.com
++.logger.qmai.cn
 +.logs.amap.com
 +.logs.chelaile.net.cn
 +.logupdate.avlyun.sec.miui.com
@@ -1109,7 +1110,10 @@ tracing-http.megamarket.tech
 +.tracker.ai.xiaomi.com
 +.tracker.my.com
 +.tracker.xiaomixiaoai.com
++.tracking.mcdonalds.com.cn
 +.tracking.miui.com
++.trackingprd.hwwt8.com
++.trackserver.shuxinyc.com
 +.trafficfactory.biz
 +.tsyndicate.com
 +.tubemogul.com

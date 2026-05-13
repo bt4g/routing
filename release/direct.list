@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 3597
+# entries: 3639
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -236,6 +236,7 @@ agency-adv.ozon.ru
 +.aka.ms
 +.albeats.com
 +.alchemysynth.com
++.alefbank.com
 +.alfabank.oavdo.amc
 +.alfabank.st
 +.algoritmika.org
@@ -665,6 +666,7 @@ arenda.yandex.ru
 +.aspnetcdn.com
 +.asto.re
 asusrouter.com
++.at.ua
 +.atom.io
 +.atomyze.tech
 +.attachmy.com
@@ -781,6 +783,7 @@ bag-cdn.itunes-apple.com.akadns.net
 +.bag-glasses1.com
 bag.itunes.apple.com
 +.bandgirlz.com
++.bank131.com
 +.bargipsy.com
 +.baxsound.com
 +.bbestmall.com
@@ -2161,6 +2164,7 @@ km.support.apple.com
 +.kontur-inc.com
 +.kontur.host
 +.kopfhorergunstigshop.com
++.korona.com
 +.koshelek.app
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-cinfo.geoksn.kaspersky.com
@@ -2297,6 +2301,7 @@ mc.yandex.net
 +.mc.yandex.ru
 mc.yango.com
 +.mcchcdn.com
++.mcs.st
 mdr.ksn.kaspersky-labs.com
 +.me.com
 +.medsi.com
@@ -2917,6 +2922,7 @@ publicassets.cdn-apple.com
 +.pullstring.net
 push-apple.com.akadns.net
 +.pushgrow.io
++.pvubank.com
 +.pwabuilder.com
 +.pxt.io
 +.pz.help
@@ -2972,6 +2978,7 @@ routerlogin.com
 rs.mail.ru
 +.rteam.tech
 +.ru
++.ru.ccb.com
 +.ru.com
 +.ru.net
 +.ruhub.tv
@@ -3282,7 +3289,35 @@ tv.applemusic.com
 +.twitchcon.com
 +.twitchsvc.net
 +.ubnw.net
++.ubs.com
++.ucoz.ae
++.ucoz.club
++.ucoz.co
++.ucoz.co.il
++.ucoz.co.uk
++.ucoz.com
++.ucoz.com.br
++.ucoz.com.ro
++.ucoz.de
++.ucoz.es
++.ucoz.fr
++.ucoz.hu
++.ucoz.kz
++.ucoz.lv
++.ucoz.md
++.ucoz.net
++.ucoz.org
++.ucoz.pl
++.ucoz.site
++.ucoz.ua
++.ucozmail.com
++.ucozmedia.com
++.ucoztemplates.com
 +.ukipad.com
++.ukit.ai
++.ukit.com
++.ukit.group
++.ukit.me
 +.uma.media
 +.umschool.net
 +.uni.rest
@@ -3299,6 +3334,7 @@ upp.itunes.apple.com
 +.usa-beatsbydreheadphonesonsale.net
 +.userapi.com
 +.userpxt.io
++.usocial.pro
 uts-api.itunes.apple.com
 +.uwpcommunitytoolkit.com
 +.v-has.com
@@ -3331,12 +3367,15 @@ visor.sberbank.ru
 +.vk.com
 +.vk.company
 +.vk.design
++.vk.kz
 +.vk.link
 +.vk.me
 +.vk.team
 +.vkcache.com
 +.vkcdnservice.com
 +.vkclips.app
++.vkcloud-static.kz
++.vkcloud.kz
 +.vkcs.cloud
 +.vkgo.app
 +.vklive.app
@@ -3354,6 +3393,7 @@ visor.sberbank.ru
 +.vkuserlive.net
 +.vkuservideo.com
 +.vkuservideo.net
++.vkworkspace.kz
 +.vmailru.net
 +.vsallin.net
 +.vsassets.io
@@ -3368,6 +3408,8 @@ vscode.blob.core.windows.net
 vscode.download.prss.microsoft.com
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
++.vtb-direct.com
++.vtbglobalperspectives.com
 vz.download.prss.microsoft.com
 +.warehouse.domains
 +.wasdj.com
